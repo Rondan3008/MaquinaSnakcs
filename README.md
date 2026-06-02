@@ -7,4 +7,4 @@ Este repositorio contiene la solución al problema propuesto en la clase del 26/
 2. Abre una terminal o consola de comandos en la carpeta del proyecto.
 3. Ejecuta el siguiente comando:
    ```bash
-   python maquina_snacks.py
+   python MaquinaSnack.py
